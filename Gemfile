@@ -43,6 +43,9 @@ group :development, :test do
   gem 'httparty'
   gem 'webmock'
   gem 'vcr'
+  gem 'pry'
+  gem 'selenium-webdriver'
+  gem 'chromedriver-helper'
 end
 
 group :development do
